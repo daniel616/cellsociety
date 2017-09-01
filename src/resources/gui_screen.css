@@ -1,0 +1,24 @@
+.button {
+    -fx-text-fill: #006464;
+    -fx-background-color: linear-gradient(#f2f2f2, #d9d9d9);
+    -fx-border-radius: 20;
+    -fx-background-insets: 5;
+    -fx-background-radius: 10;
+    -fx-padding: 18;
+    -fx-font-size: 16px;
+}
+
+.slider {
+	-fx-show-tick-labels: true;
+	-fx-show-tick-marks:true;
+	-fx-major-tick-unit: .25;
+	-fx-minor-tick-count: .05;
+}
+
+.label {
+	-fx-font-size: 10pt;
+	-fx-padding: 5;
+}
+.combo-box-base {
+	-fx-font-size: 16pt;
+}

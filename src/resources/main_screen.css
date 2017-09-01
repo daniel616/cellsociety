@@ -1,0 +1,17 @@
+.button {
+    -fx-text-fill: #000000;
+    -fx-background-color: linear-gradient(#f2f2f2, #d9d9d9);
+    -fx-border-radius: 20;
+    -fx-background-insets: 5;
+    -fx-background-radius: 10;
+    -fx-padding: 30;
+    -fx-font-size: 20px;
+    -fx-pref-width: 300;
+}
+
+.label {
+	-fx-font-size: 60pt;
+	-fx-padding: 60;
+	-fx-text-alignment: center;
+	-fx-font-family: Monaco
+}
